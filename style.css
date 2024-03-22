@@ -1,0 +1,434 @@
+#container1{
+    background-color: lightseagreen;
+}
+
+#container{
+    border: solid;
+    margin: 3%;
+    background-color: darkslateblue;
+    padding: 50px;
+    text-align: center;
+    border-style: hidden;
+
+}
+
+#navbar{
+    display: flex;
+    gap: 200px;
+    border: solid;
+    width: 80%;
+    border-style: hidden;
+
+    
+}
+#nav1{
+    display: flex;
+    gap: 50px;
+}
+#invest{
+    border: solid;
+    border-radius: 15px;
+    padding: 15px;
+    width: 12%;
+    background-color: blueviolet;
+    font-size: 100%;
+    color: white;
+    border-style: hidden;
+}
+#text2{
+    font-size: 300%;
+
+}
+#text12{
+    font-size: 300%;
+}
+#text3{
+    font-size: 100%;
+}
+#text10{
+    font-size: 100%;
+}
+#sign{
+    border: solid;
+    border-radius: 20px;
+    padding: 30px;
+    width:9%;
+    background-color: lightskyblue;
+    color: white;
+    
+}
+#log{
+   border: solid;
+   border-radius: 15px;
+   padding: 25px;
+   width: 7%;
+   color:lightskyblue;
+   
+}
+#button1{
+    display: flex;
+    gap: 2px;
+}
+#picture1{
+    margin-left: 20%;
+}
+#text1{
+ color:yellow;
+}
+#text5{
+    font-size:300%;
+    text-align: center;
+}
+#holder4{
+    display: flex;
+    gap: 230px
+}
+#holder5{
+    display: flex;
+    gap: 90px;
+}
+#button2{
+    border: solid;
+    border-radius: 15px;
+    padding: 25px;
+    background-color: darkslateblue;
+    width: 90%;
+    border-style: hidden;
+}
+#holder1{
+    display: flex;
+    gap: 90px;
+}
+#content{
+    display: flex;
+    gap: 100px;
+}
+#container2{
+    border: solid;
+    margin: 5%;
+    padding: 50px;
+    background-color: aliceblue;
+    border-style: hidden;
+    text-align: center;
+}
+#text14{
+    font-size: 200%;
+    text-align: center;
+}
+#text15{
+    text-align: center;
+}
+#text16{
+    text-align: center;
+}
+#text17{
+    text-align: center;
+}
+#picture7{
+    text-align: center;
+}
+#word{
+    font-size: 300%;
+}
+#button5{
+    border: solid;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: blueviolet;
+    width: 20%;
+    border-style: hidden;
+    font-size: 100%;
+    
+
+}
+#word1{
+    display: flex;
+    gap: 900px;
+    
+}
+#holder9{
+    display: flex;
+    gap: 120px;
+    
+    
+}
+#log2{
+    border: solid;
+    border-radius: 15px;
+    padding: 15px;
+    width: 80%;
+}
+#log1{
+    border: solid;
+    border-radius: 20px;
+    padding: 20px;
+    width: 80%;
+}
+#log3{
+    border: solid;
+    border-radius: 15px;
+    padding: 15px;
+    width: 100%
+}
+#holder12{
+    display: flex;
+    gap: 90px;
+    
+}
+#holder10{
+    border: solid;
+    background-color: white;
+    margin: 5%;
+    border-style: hidden;
+}
+#concept1{
+    font-size: 200%;
+}
+#concept2{
+    font-size: 200%;
+}
+#concept3{
+    font-size: 200%;
+}
+#concept4{
+    font-size: 200%;
+}
+#add{
+    border: solid;
+    padding: 15px;
+    border-radius: 15px;
+    border-style: hidden;
+}
+#concept7{
+    display: flex;
+    gap: 400px;
+}
+#concept9{
+    background-color: cadetblue;
+    border: solid;
+    padding: 20px;
+    border-style: hidden;
+    margin: 5%;
+
+}
+
+    
+@media only screen and {max-width: 400px;
+    #container1{
+        background-color: lightseagreen;
+    }
+    
+    #container{
+        border: solid;
+        margin: 3%;
+        background-color: darkslateblue;
+        padding: 50px;
+        text-align: center;
+        border-style: hidden;
+    
+    }
+    
+    #navbar{
+        display: flex;
+        gap: 200px;
+        border: solid;
+        width: 80%;
+        border-style: hidden;
+    
+        
+    }
+    #nav1{
+        display: flex;
+        gap: 50px;
+    }
+    #invest{
+        border: solid;
+        border-radius: 15px;
+        padding: 15px;
+        width: 12%;
+        background-color: blueviolet;
+        font-size: 100%;
+        color: white;
+        border-style: hidden;
+    }
+    #text2{
+        font-size: 300%;
+    
+    }
+    #text12{
+        font-size: 300%;
+    }
+    #text3{
+        font-size: 100%;
+    }
+    #text10{
+        font-size: 100%;
+    }
+    #sign{
+        border: solid;
+        border-radius: 20px;
+        padding: 30px;
+        width:9%;
+        background-color: lightskyblue;
+        color: white;
+        
+    }
+    #log{
+       border: solid;
+       border-radius: 15px;
+       padding: 25px;
+       width: 7%;
+       color:lightskyblue;
+       
+    }
+    #button1{
+        display: flex;
+        gap: 2px;
+    }
+    #picture1{
+        margin-left: 20%;
+    }
+    #text1{
+     color:yellow;
+    }
+    #text5{
+        font-size:300%;
+        text-align: center;
+    }
+    #holder4{
+        display: flex;
+        gap: 230px
+    }
+    #holder5{
+        display: flex;
+        gap: 90px;
+    }
+    #button2{
+        border: solid;
+        border-radius: 15px;
+        padding: 25px;
+        background-color: darkslateblue;
+        width: 90%;
+        border-style: hidden;
+    }
+    #holder1{
+        display: flex;
+        gap: 90px;
+    }
+    #content{
+        display: flex;
+        gap: 100px;
+    }
+    #container2{
+        border: solid;
+        margin: 5%;
+        padding: 50px;
+        background-color: aliceblue;
+        border-style: hidden;
+        text-align: center;
+    }
+    #text14{
+        font-size: 200%;
+        text-align: center;
+    }
+    #text15{
+        text-align: center;
+    }
+    #text16{
+        text-align: center;
+    }
+    #text17{
+        text-align: center;
+    }
+    #picture7{
+        text-align: center;
+    }
+    #word{
+        font-size: 300%;
+    }
+    #button5{
+        border: solid;
+        border-radius: 10px;
+        padding: 10px;
+        background-color: blueviolet;
+        width: 20%;
+        border-style: hidden;
+        font-size: 100%;
+        
+    
+    }
+    #word1{
+        display: flex;
+        gap: 900px;
+        
+    }
+    #holder9{
+        display: flex;
+        gap: 120px;
+        
+        
+    }
+    #log2{
+        border: solid;
+        border-radius: 15px;
+        padding: 15px;
+        width: 80%;
+    }
+    #log1{
+        border: solid;
+        border-radius: 20px;
+        padding: 20px;
+        width: 80%;
+    }
+    #log3{
+        border: solid;
+        border-radius: 15px;
+        padding: 15px;
+        width: 100%
+    }
+    #holder12{
+        display: flex;
+        gap: 90px;
+        
+    }
+    #holder10{
+        border: solid;
+        background-color: white;
+        margin: 5%;
+        border-style: hidden;
+    }
+    #concept1{
+        font-size: 200%;
+    }
+    #concept2{
+        font-size: 200%;
+    }
+    #concept3{
+        font-size: 200%;
+    }
+    #concept4{
+        font-size: 200%;
+    }
+    #add{
+        border: solid;
+        padding: 15px;
+        border-radius: 15px;
+        border-style: hidden;
+    }
+    #concept7{
+        display: flex;
+        gap: 400px;
+    }
+    #concept9{
+        background-color: cadetblue;
+        border: solid;
+        padding: 20px;
+        border-style: hidden;
+        margin: 5%;
+    
+    }
+}
+
+
+
+
